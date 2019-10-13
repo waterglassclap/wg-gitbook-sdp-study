@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Overview](README.md)
+* [Architecture Quality Measurement](architecture-quality-measurement.md)
 
